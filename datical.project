@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="ASCII"?>
+<dbproject:Project xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dbproject="http://datical.com/db/project/1.0" name="cs_edb" storedLogicExternal="true" deployThreshold="stopOnError" projectsId="0c4c8141-ca87-4fe3-ab5f-d07be5dc71ce" runtimeCredentials="false" multiSchema="true" dbSchemaDefinition="project" schemaSelectionStep="REF1" trackingSchema="lb" enableRowCount="disabled" multiCatalog="false" lastEdited="2026-10-26T16:02:51.149662500Z">
+  <dbDefs xsi:type="dbproject:PostgresqlDbDef" name="REF1" driver="org.postgresql.Driver" hostname="localhost" port="8544" username="enterprisedb" password="ZW50ZXJwcmlzZWRi" contexts="REF,REF1" labels="current" dbDefsId="26b7adc2-20a8-3916-9c85-3ddc627d12f4" database="postgres"/>
+  <plans name="current" databaseDefs="//@dbDefs[name='REF1']" plansId="f1185494-9a8a-3aa8-9b40-3e4194401d60"/>
+  <changelog href="Changelog/changelog.xml#//@databaseChangeLog"/>
+  <schemas name="app_schema"/>
+</dbproject:Project>
