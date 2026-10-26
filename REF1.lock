@@ -1,3 +1,0 @@
-Created date: Oct 26 2026, 11:33:15 AM CDT
-Error description: pg_dump: error: aborting because of server version mismatch
-pg_dump: detail: server version: 18.3.0; pg_dump version: 15.7
