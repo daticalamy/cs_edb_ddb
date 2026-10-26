@@ -13,3 +13,4 @@ Resources/sql/*.sql.tmp
 *.zip
 .svnignore
 .tfignore
+*.lock
